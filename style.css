@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,700;1,500&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Epilogue", sans-serif;
+    font-size: 18px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: start;
+}
+.basliq {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: start;
+
+}
+.logo {
+    margin: 20px;
+    
+
+}
+.feature {
+    margin: 20px;
+
+}
+.comp {
+    margin: 20px;
+
+}
+.career {
+    margin: 20px;
+
+}
+.about {
+    margin: 20px;
+} 
+
+
+.login {
+    margin: 20px;
+    margin-bottom: 25px;
+    margin-left: 700px;  
+}
+.regist {
+    margin: 20px;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    margin-top: 15px;
+    margin-right: 18px;
+}
+.mainfoto {
+    width: 480px;
+    height: 600px;
+    margin-top: 100px;
+    margin-left:-580px;
+}
+.paragraph {
+    margin-top: -500px;
+    margin-left: 150px;
+}
+.pg {
+    line-height: 50px;
+}
+.otherpg {
+    line-height: 30px;
+    color: gray;
+}
+.buttom {
+    margin-left: 150px;
+    border-radius: 10px;
+    background-color:hsl(0, 0%, 8%);
+    color: #fff;
+    width: 100px;
+    height: 35px;
+    margin-top: 20px;
+}
+button:hover {
+    background-color: blanchedalmond;
+    color: black;
+}
+.marks {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: start;
+    margin-top: 160px;
+    margin-left: 130px;
+}
+.data {
+    margin: 20px;
+
+}
+.audi {
+    margin: 20px;
+}
+.meet {
+    margin: 20px;
+}
+.maker {
+    margin: 20px;
+}
+.down {
+    margin-left: 90px;
+    margin-bottom: 10px;
+}
